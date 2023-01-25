@@ -1,3 +1,5 @@
 *** ESTE PROYECTO ES DEL CANAL 'JavaScript Mastery' DE TOUTUBE ***
 
-*** SEGUIR EN EL MINUTO 4:07 DEL VÍDEO => https://www.youtube.com/watch?v=iGBERMGMIvc ***
+*** SEGUIR EN EL MINUTO 14:43 DEL VÍDEO => https://www.youtube.com/watch?v=iGBERMGMIvc ***
+
+*** SE PRODUCE UN ERROR AL EJECUTAR EL PROYECTO EL CUAL DICE QUE SE DEBE ACTUALIZAR EL COMPONENTE 'TRANSITION' => 'react-transition-group', NO HE PODIDO ENCTROAR LA SOLUCIÓN ***
