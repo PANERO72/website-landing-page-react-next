@@ -29,6 +29,8 @@
     "react-multi-carousel": "^2.8.2",
     "react-scroll": "^1.8.9",
     "react-stickynode": "^4.1.0",
+    "react-transition-group": "^4.4.5",
+    "reactstrap": "^9.1.5",
     "theme-ui": "^0.15.4",
     "typeface-dm-sans": "^1.1.13"
   },
